@@ -5,4 +5,5 @@ Created on Sat Feb 11 12:36:09 2023
 @author: ACER
 """
 
-
+x=10
+y=12
